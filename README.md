@@ -1,16 +1,16 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *tipCalc*
 
-**Name of your app** is a tip calculator application for iOS.
+**tipCalc** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Yixing Wang**
 
-Time spent: **X** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -35,9 +35,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I found that sometimes the keyboard doesn't show up when I hit on the box filler in the iPhone 8 simulator, which can be solved by toggling the software keyboard. The problem it seems that I didn't change anything every time this issue happened, which was pretty weird.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Yixing Wang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
